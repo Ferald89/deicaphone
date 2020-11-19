@@ -1,4 +1,4 @@
-Service Manage
+Service Manage Deica Phone
 =============
 
-App for manage of cnc's services
+App for manage of market of cellphone
