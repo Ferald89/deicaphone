@@ -66,7 +66,7 @@ class Home extends React.Component{
                     className="img-fluid mb-2"
                   />
     
-                  <h1>Sistema De Servicios de Mantenimiento</h1>
+                  <h1>Sistema Servicios Celulares</h1>
                   <LoginForm
                   onChange={this.handleChange}
                   onSubmit={this.handleSubmit}

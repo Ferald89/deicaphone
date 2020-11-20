@@ -1,4 +1,4 @@
-const BASE_URL = 'https://servicemante.ga';
+const BASE_URL = 'https://deicaphone.ga';
 // const BASE_URL = 'http://localhost:8000';
 
 async function callApi(endpoint, options = {}) {
