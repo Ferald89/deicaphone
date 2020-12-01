@@ -3,7 +3,7 @@ import React from 'react';
 // Local
 import './styles/Home.css';
 import platziconfLogoImage from '../images/logod.svg';
-import astronautsImage from '../images/hero-image.svg';
+import astronautsImage from '../images/logo.png';
 import LoginForm from '../components/LoginForm';
 import api from '../api';
 import MiniLoader from '../components/MiniLoader';
@@ -85,9 +85,9 @@ class Home extends React.Component{
                   <img
                     src={astronautsImage}
                     alt="Astronauts"
-                    className="img-fluid p-10"
-                    height="50%"
-                    width="50%"
+                    className="img-fluid p-1"
+                    height="100%"
+                    width="100%"
                   />
                 </div>
               </div>
