@@ -3,7 +3,7 @@ import React from 'react';
 // Local
 import './styles/Home.css';
 import platziconfLogoImage from '../images/logod.svg';
-import astronautsImage from '../images/logo.png';
+import astronautsImage from '../images/logo.svg';
 import LoginForm from '../components/LoginForm';
 import api from '../api';
 import MiniLoader from '../components/MiniLoader';
