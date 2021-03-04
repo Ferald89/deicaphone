@@ -1,4 +1,4 @@
-const BASE_URL = 'https://neotecnology.ga';
+const BASE_URL = 'https://neotecnology.gq';
 // const BASE_URL = 'http://localhost:8000';
 
 async function callApi(endpoint, options = {}) {
