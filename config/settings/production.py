@@ -5,7 +5,7 @@ from .base import env
 
 # Base
 SECRET_KEY = env('DJANGO_SECRET_KEY')
-ALLOWED_HOSTS = env.list('DJANGO_ALLOWED_HOSTS', default=['neotecnology.gt'])
+ALLOWED_HOSTS = env.list('DJANGO_ALLOWED_HOSTS', default=['neotecnology.gq'])
 
 # Databases
 DATABASES['default'] = env.db('DATABASE_URL')  # NOQA
